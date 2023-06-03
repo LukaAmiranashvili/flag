@@ -1,0 +1,25 @@
+.flag{
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+.contant1{
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    
+}
+
+
+
+
+td{
+
+    padding: 50px;
+
+}
+
+
+

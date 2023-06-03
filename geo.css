@@ -1,0 +1,37 @@
+.tictactoe{
+
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color:  white;
+    
+
+
+}
+td{
+    padding: 60px;
+}
+
+  
+
+.vertical2{
+ border-left:  1px solid rgb(255, 255, 255);
+ border-right: 1px solid rgb(255, 255, 255);
+ background-color: red;
+}
+
+.horisontal{
+ 
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    background-color: red;
+
+}
+
+.boom{
+    background-color: white;
+   color:  black;
+}
